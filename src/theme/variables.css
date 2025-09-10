@@ -50,6 +50,7 @@
   font-family: Poppins;
 }
 .custom-modal {
+  --zoom: 80%;
   --width: 80%;
   --max-width: 1000px;
   --height: 90%;
