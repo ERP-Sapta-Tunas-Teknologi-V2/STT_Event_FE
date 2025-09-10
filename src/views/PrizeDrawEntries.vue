@@ -583,6 +583,10 @@ export default defineComponent({
 }
 
 /* Winner Modal Styles */
+.custom-modal{
+  zoom: 0.8;
+}
+
 .winner-content {
   text-align: center;
   padding: 20px;
